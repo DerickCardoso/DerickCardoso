@@ -29,7 +29,7 @@
 ---
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil :detective: (desde 17/09/2021)<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/DerickCSilva/count.svg" />
  </p>
