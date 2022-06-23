@@ -1,11 +1,11 @@
 <p align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></p>
 
 ## <p align="center">Olá, prazer. Eu sou o Derick!</p>
-<p align="center"><b>Cursando Desenvolvimento de Sistemas e estudando para me tornar um desenvolvedor Full-Stack.</b></p>
+<p align="center"><b>Formado em Tecnologia em Análise e Desenvolvimento de Sistemas e sempre em busca de de conhecimento com foco no desenvolvimento Full-Stack JavaScript.</b></p>
 
 ## Informações
 
-- 🎓 Irei me graduar em Jul/2022 na Universidade Nove de Julho (UNINOVE).
+- 🎓 Graduado em Jun/2022 na Universidade Nove de Julho (UNINOVE).
 - 💼 Atualmente estou trabalhando na Certsys Tecnologia da Informação LTDA.
 
 ## Conhecimento nas Tecnologias
