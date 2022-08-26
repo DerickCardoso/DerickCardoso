@@ -5,7 +5,7 @@
 
 ## Informações
 
-- 🎓 Graduado em Jun/2022 na Universidade Nove de Julho (UNINOVE).
+- 🎓 Graduado pela Universidade Nove de Julho (UNINOVE).
 - 💼 Atualmente estou trabalhando na Compass.UOL Tecnologia LTDA.
 
 ## Conhecimento nas Tecnologias
