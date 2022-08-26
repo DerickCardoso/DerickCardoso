@@ -6,7 +6,7 @@
 ## Informações
 
 - 🎓 Graduado em Jun/2022 na Universidade Nove de Julho (UNINOVE).
-- 💼 Atualmente estou trabalhando na Compass UOL LTDA.
+- 💼 Atualmente estou trabalhando na Compass.UOL Tecnologia LTDA.
 
 ## Conhecimento nas Tecnologias
 - Front-End: <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
