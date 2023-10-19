@@ -17,8 +17,8 @@
 
 ### 🧾 Visão geral do meu Github
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DerickCSilva&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickCSilva&layout=compact&hide=Vue,Shell&custom_title=Tecnologias%20mais%20utilizadas&card_width=447)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DerickCardoso&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickCardoso&layout=compact&hide=Vue,Shell&custom_title=Tecnologias%20mais%20utilizadas&card_width=447)
 
 ---
 
